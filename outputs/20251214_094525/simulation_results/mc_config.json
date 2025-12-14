@@ -1,0 +1,22 @@
+{
+  "B": 10000,
+  "COST_SCENARIO": "Base",
+  "USE_PRICE_NOISE": true,
+  "PRICE_NOISE_SCALE": 1.0,
+  "COST_MODEL_MODE": "COMPONENT",
+  "MONTHS_IN_OPERATION": 9,
+  "DCA_POD_ANNUAL_USD": 8300.0,
+  "DCA_PODS_PER_ROOM": 1,
+  "POD_SHARING_ROOMS": 1,
+  "ENERGY_USD_PER_TON_MONTH": 4.0,
+  "ENERGY_FACTOR": {
+    "RA": 1.0,
+    "CA": 1.25,
+    "DCA": 1.5
+  },
+  "FIXED_OPEX_CAPEX_BASE": {
+    "RA": 2500.0,
+    "CA": 6000.0,
+    "DCA": 6500.0
+  }
+}

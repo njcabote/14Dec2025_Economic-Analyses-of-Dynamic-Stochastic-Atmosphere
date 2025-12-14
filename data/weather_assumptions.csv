@@ -1,0 +1,10 @@
+orchard_id,year,county,pre_harvest_heat,pre_harvest_cold,pre_harvest_dry,pre_harvest_wet,pre_harvest_humid,harvest_heat,harvest_cold,harvest_dry,harvest_humid,post_harvest_heat,post_harvest_cold,post_harvest_dry,post_harvest_humid,spring_cold,spring_warm,extreme_heat,frost,pre_harvest_warmer_than_quincy,pre_harvest_cooler_than_quincy,harvest_warmer_than_quincy,harvest_cooler_than_quincy,post_harvest_warmer_than_quincy,post_harvest_cooler_than_quincy,honeycrisp_early_wet,honeycrisp_early_cool,honeycrisp_mid_wet,honeycrisp_late_warm,notes,pre_harvest_warmer_than_othello,pre_harvest_cooler_than_othello,harvest_warmer_than_othello,harvest_cooler_than_othello,post_harvest_warmer_than_othello,post_harvest_cooler_than_othello
+HC_O1,2022,Adams,1,1,0,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,Othello location - granular period-specific flags + Honeycrisp phenological flags,0,0,0,0,0,0
+HC_O2,2022,Grant,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,Quincy location - granular period-specific flags + Honeycrisp phenological flags,1,0,1,0,0,1
+GA_O1,2022,Grant,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Quincy location - granular period-specific flags,1,0,1,0,0,1
+HC_O1,2023,Adams,1,1,1,1,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,1,0,1,1,0,0,Othello location - granular period-specific flags + Honeycrisp phenological flags,0,0,0,0,0,0
+HC_O2,2023,Grant,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Quincy location - granular period-specific flags + Honeycrisp phenological flags,0,0,0,1,0,1
+GA_O1,2023,Grant,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Quincy location - granular period-specific flags,0,0,0,1,0,1
+HC_O1,2024,Adams,1,1,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,Othello location - granular period-specific flags + Honeycrisp phenological flags,0,0,0,0,0,0
+HC_O2,2024,Grant,1,1,0,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,Quincy location - granular period-specific flags + Honeycrisp phenological flags,1,0,1,0,0,1
+GA_O1,2024,Grant,1,1,0,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Quincy location - granular period-specific flags,1,0,1,0,0,1
