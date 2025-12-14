@@ -152,4 +152,4 @@ Run `python3 validate_replication.py` to verify results match the original.
 
 ## Contact
 
-[Contact information to be added]
+nickson.cabote@wsu.edu
