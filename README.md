@@ -2,15 +2,15 @@
 
 This package provides a complete, modular replication of the Dynamic Controlled Atmosphere (DCA) storage technology economic analysis published in HortScience. The analysis compares three storage technologies (Regular Atmosphere/RA, Controlled Atmosphere/CA, and Dynamic Controlled Atmosphere/DCA) for apple storage using Monte Carlo simulation and decision analysis frameworks.
 
-## ✅ Validation Status
+##  Validation Status
 
-**✅ VALIDATED:** This package has been tested and produces **identical results** to the December 13, 2025 original script (`13Dec2025 DCA Simulations for HortScience.py`). 
+** VALIDATED:** This package has been tested and produces **identical results** to the December 13, 2025 original script (`13Dec2025 DCA Simulations for HortScience.py`). 
 
 **Validation Results:**
-- ✅ All key metrics match exactly (0.00% difference)
-- ✅ Uses updated weather assumptions (granular period-specific flags)
-- ✅ Uses updated energy cost assumptions (component-based model)
-- ✅ All 108 scenarios (36 Gala + 72 Honeycrisp) produce identical results
+-  All key metrics match exactly (0.00% difference)
+-  Uses updated weather assumptions (granular period-specific flags)
+-  Uses updated energy cost assumptions (component-based model)
+-  All 108 scenarios (36 Gala + 72 Honeycrisp) produce identical results
 
 See `FINAL_VALIDATION_REPORT.md` for complete validation details.
 
@@ -74,15 +74,6 @@ python3 05_tables/generate_table_7.py
 python3 validate_replication.py
 ```
 
-## Key Features
-
-- ✅ **Modular design** - Each step is a separate, well-annotated script
-- ✅ **Centralized configuration** - All parameters in `config/config.py`
-- ✅ **Updated assumptions** - Uses granular weather flags and component-based cost model
-- ✅ **Validated results** - Produces identical results to original December 13 script
-- ✅ **Self-contained** - All data files included
-- ✅ **Organized outputs** - Timestamped folders for each run (YYYYMMDD_HHMMSS format)
-
 ## Output Organization
 
 **Each simulation run creates a timestamped folder:**
@@ -91,9 +82,9 @@ python3 validate_replication.py
 - Example: `outputs/20251214_094525/`
 
 This ensures:
-- ✅ Multiple runs don't overwrite each other
-- ✅ Easy tracking of when results were generated
-- ✅ Clear organization of outputs by run
+-  Multiple runs don't overwrite each other
+-  Easy tracking of when results were generated
+-  Clear organization of outputs by run
 
 ## Configuration
 
@@ -132,10 +123,10 @@ Modify values in `config/config.py` to adjust any aspect of the analysis.
 ## Validation
 
 The package has been validated against the December 13, 2025 original script:
-- ✅ All key metrics match exactly
-- ✅ Same parameters (energy costs, weather flags, etc.)
-- ✅ Same data files
-- ✅ Identical results (within floating-point precision)
+-  All key metrics match exactly
+-  Same parameters (energy costs, weather flags, etc.)
+-  Same data files
+-  Identical results (within floating-point precision)
 
 Run `python3 validate_replication.py` to verify results match the original.
 
@@ -148,7 +139,7 @@ Run `python3 validate_replication.py` to verify results match the original.
 
 ## Citation
 
-[Citation information to be added]
+[Citation information to be added pending paper publication details]
 
 ## Contact
 
