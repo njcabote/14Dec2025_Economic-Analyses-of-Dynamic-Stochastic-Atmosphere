@@ -8,7 +8,7 @@ It handles:
 - Data type normalization and validation
 - Year mapping (if needed)
 
-Author: DCA Economic Analysis Team
+Author: Nickson Cabote
 Date: December 2025
 """
 
